@@ -1,7 +1,24 @@
+
 body {
-    background-image: url('hatter.jpg');
+    font-family: Arial, sans-serif;
+    background-image: url('hatter.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
-    
+    color: #333; 
+    margin: 20px; 
+    padding: 20px; 
+}
+
+h1 {
+    color: #FF0000; 
+}
+
+ul {
+    list-style-type: square; 
+    padding-left: 20px; 
+}
+
+li {
+    margin-bottom: 10px; 
 }
