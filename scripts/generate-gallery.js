@@ -37,7 +37,7 @@ fs.readdir(directoryPath, (err, files) => {
     </style>
 </head>
 <body>
-    <h1>My Photo Gallery</h1>
+    <h1>Timonachamp aka: kirájotok</h1>
     <div id="gallery">
         ${galleryHtml}
     </div>
